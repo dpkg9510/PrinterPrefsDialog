@@ -1,0 +1,8 @@
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\bin\Debug\PrinterSettings.exe
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\bin\Debug\PrinterSettings.pdb
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSettings.csprojAssemblyReference.cache
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSettings.csproj.GenerateResource.cache
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSettings.csproj.CoreCompileInputs.cache
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSettings.exe
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSettings.pdb
+C:\Users\mali\OneDrive\Documents\Visual Studio 2019\Projects\test1\obj\Debug\PrinterSet.Form1.resources
